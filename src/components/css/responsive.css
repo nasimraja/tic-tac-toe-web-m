@@ -1,0 +1,43 @@
+
+@media(max-width: 1166px){
+    .p{
+        font-size: 6em;
+    }
+}
+
+@media(max-width: 992px){
+    .chart-box{
+        margin-bottom: 30px;
+      }
+      .border-b{
+          display: block;
+      }
+      .header-bg{
+          display: none;
+      }
+      .recordlist-bg{
+        padding-top: 0px;
+      }
+      .heading-dashboard{
+          margin-top: 30px;
+      }
+      .p{
+        font-size: 4em;
+    }
+}
+@media(max-width: 640px){
+    .Display_bg{
+        margin-top: -30px;
+    }
+    .section-ticgame{
+        margin-top: 0px;
+    }
+    .p{
+        font-size: 4em;
+    }
+    .Display_bg{
+        font-size: 30px;
+    }
+    
+}
+
